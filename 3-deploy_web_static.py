@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Tar, transfer, and deploy static html to webservers"""
+"""deploy to web servers"""
 
 from fabric import api, decorators
 from fabric.contrib import files

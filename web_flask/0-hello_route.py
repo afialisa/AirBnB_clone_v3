@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Simple Flask web application"""
+"""0-hello_route.py"""
 from flask import Flask
 app = Flask('web_flask')
 

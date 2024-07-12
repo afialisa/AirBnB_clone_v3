@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Simple Flask web application"""
+"""flask web application"""
 from flask import Flask
 app = Flask('web_flask')
 app.url_map.strict_slashes = False

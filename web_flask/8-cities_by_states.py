@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Flask app to generate html list of all states from storage"""
+"""flask web app"""
 from flask import Flask, render_template
 from models import storage
 app = Flask('web_flask')

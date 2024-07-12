@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# Script using bash to setup webservers for deployment of simple HTML
+# A bash script that is used to setup webservers for deployment of simple HTML
 # content
 
 apt-get update && \

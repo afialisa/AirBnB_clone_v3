@@ -1,6 +1,5 @@
 #!/usr/bin/python3
-"""Database storage engine using SQLAlchemy with a mysql+mysqldb database
-connection.
+"""Database storage engine
 """
 
 import os

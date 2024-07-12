@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-"""Flask app to generate html page containing popdown menu of states/cities"""
+"""flask app"""
 from flask import Flask, render_template
 from models import storage
 app = Flask('web_flask')
